@@ -1,0 +1,8 @@
+name: "le_test"
+type: "php:7.0"
+disk: "128"
+web:
+  locations:
+    '/':
+      root: 'web'
+      passthru: '/index.php'

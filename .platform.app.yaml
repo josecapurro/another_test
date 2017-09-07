@@ -4,5 +4,5 @@ disk: "128"
 web:
   locations:
     '/':
-      root: 'web'
+      root: ''
       passthru: '/index.php'

@@ -1,2 +1,2 @@
 # le_test
-Le Test
+Le Test, running phpinfo()

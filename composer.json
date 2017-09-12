@@ -1,0 +1,10 @@
+{
+    "name": "josecapurro/le_test",
+    "type": "library", 
+    "description": "this is a test of le_test",
+    "homepage": "https://github.com/josecapurro/le_test",
+    "require": {
+        "php": "5.6.*"
+    },
+    "minimum-stability": "dev"
+}

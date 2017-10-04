@@ -1,6 +1,0 @@
-<?php
-  /*
-  aaaaa
-  */
-  phpinfo();
-?>

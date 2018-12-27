@@ -1,0 +1,1 @@
+another_test is the repository to be created with data from le_test repository.
